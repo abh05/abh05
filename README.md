@@ -1,7 +1,7 @@
 <!-- Greeting -->
 # Hey there! :wave::smiley:
 <!--Introduction -->
-I'm Avi! I'm In addition to being a **QA And Integration Engineer** over the past 10 years, I am also taking my first steps into the **DevOps** world.    
+I'm Avi! In addition to being a **QA And Integration Engineer** over the past 10 years, I am also taking my first steps into the **DevOps** world.    
 I have a passion for automation, making testing operations more efficient by making automation more accessible, and creating new innovations.✨
 
 
